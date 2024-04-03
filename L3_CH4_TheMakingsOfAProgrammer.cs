@@ -1,4 +1,4 @@
-﻿// Challenge 4: The Makings of a Programmer
+﻿// Level 3 Challenge 4: The Makings of a Programmer
 // Page 24 - 50XP
 
 Console.WriteLine("Hello once again.");
