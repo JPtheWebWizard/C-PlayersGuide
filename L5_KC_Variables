@@ -1,0 +1,12 @@
+Level 5 Knowledge Check: Variables
+25XP
+
+Check your knowledge with the following questions:
+Q1. Name the three things all variables have.
+A1: Name, Type, Value
+Q2. True/False. Variables must always be declared before being used.
+A2: True
+Q3. Can you redeclare a variable?
+A3: No. You can reassign, but not redeclare.
+Q4. Which of the following are legal C# variable names? answer, 1stValue, value1, $message, delete-me, delete_me, PI.
+A4: answer,value1, delete_me, PI
