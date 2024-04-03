@@ -1,5 +1,5 @@
 ﻿/*
- * ﻿Challenge 6: The Thing Namer 3000
+ * Level 4 ﻿Challenge 6: The Thing Namer 3000
  * Page 31 - 100XP
  */
 
