@@ -1,3 +1,3 @@
-﻿// Challenge 3: What Comes Next
+﻿// Level 3 Challenge 3: What Comes Next
 // Page 24 - 50XP
 Console.WriteLine("Hello, Realms of C#!");
